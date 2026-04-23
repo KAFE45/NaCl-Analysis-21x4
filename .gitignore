@@ -1,0 +1,10 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# Data files (ถ้าไฟล์ใหญ่มากเกิน 100MB ไม่ควรเอาขึ้น Git)
+# data/*.csv
+
+# IDE settings
+.vscode/
